@@ -1,4 +1,6 @@
 **Voxel-wise Quantitative Susceptibility Mapping (QSM) Analysis Pipeline**
+These files are illustrative examples and do not include new data analyses
+
 
 * **Overview**
 
